@@ -1,24 +1,20 @@
 # Puzzle Game
 
 ## Leírás
-A **Puzzle Game** egy Python nyelven írt játék, ahol a játékos különböző logikai feladványokat old meg. A cél, hogy a játékos a legkevesebb lépésben teljesítse a pályákat.
+A **Puzzle Game** egy HTML, CSS és JavaScript technológiákkal készült böngészőalapú játék. A játékos különböző logikai feladványokat old meg, célja a pályák teljesítése a legkevesebb lépésben.
 
 ## Telepítés és futtatás
-A játék futtatásához szükség van Python telepítésére. A következő lépésekkel indítható a projekt:
+A játék egyszerűen futtatható helyben a következő lépésekkel:
 
 1. Klónozd a repót:
     ```bash
     git clone <repo-url>
     ```
-2. Lépj be a könyvtárba:
-    ```bash
-    cd puzzle-game
-    ```
-3. Telepítsd a szükséges függőségeket:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Indítsd el a játékot:
-    ```bash
-    python main.py
-    ```
+2. Nyisd meg a `index.html` fájlt egy böngészőben:
+    - Egyszerűen duplakattints az `index.html` fájlra, és válaszd ki az alapértelmezett böngészőt, vagy húzd be a böngészőablakba.
+
+## Hozzájárulás
+Szívesen fogadjuk a közreműködést! Ha szeretnél hozzájárulni a projekthez, küldj egy pull requestet, vagy nyiss egy issue-t. Minden ötlet és javítás segít!
+
+## Licenc
+A projekt [MIT Licenc](./LICENSE) alatt érhető el.
