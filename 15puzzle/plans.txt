@@ -1,0 +1,4 @@
+1. Lépészszámláló
+2. Theme változtató
+3. Szebb Gombok
+4. Gyorsabb kocka Lépés
