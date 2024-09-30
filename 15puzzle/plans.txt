@@ -4,3 +4,4 @@
 4. Gyorsabb kocka Lépés
 5. Választható nyelv
 6. Másik Játék (képpel)
+7. Időszámláló
