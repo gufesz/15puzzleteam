@@ -1,4 +1,6 @@
 1. Lépészszámláló
-2. Theme változtató
+2. Választható Téma
 3. Szebb Gombok
 4. Gyorsabb kocka Lépés
+5. Választható nyelv
+6. Másik Játék (képpel)
